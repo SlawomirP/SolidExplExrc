@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="S">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDS/AddPostfixToBookAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDStest/AddPostfixToBookAuthorTest.java" afterDir="false" />
+    <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="O">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/AddPostfixToBookAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/BookAuthorRemaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDStest/BookAuthorRemakerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDS/AddPrefixToBookAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/AddPrefixToBookAuthor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDS/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDS/MainForTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/MainForTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SOLIDS/AddPostfixToBookAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SOLIDStest/AddPostfixToBookAuthorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SOLIDStest/AddPostfixToBookAuthorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -41,8 +42,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "G:/Mój dysk/Java/SolidExplExrc/src/main/java/SOLIDS"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,18 +57,19 @@
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="SOLIDStest" />
+      <recent name="SOLIDS" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="SOLIDStest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainForTests">
+  <component name="RunManager" selected="JUnit.All in SolidExplExrc">
     <configuration name="MainForTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SOLIDS.MainForTests" />
       <module name="SolidExplExrc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SOLIDS.*" />
+          <option name="PATTERN" value="SOLIDS.AddPrefixToBookAuthor" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddPostfixToBookAuthorTest.shouldReturnBookAuthorWithPostfix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddPostfixToBookAuthorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SolidExplExrc" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +87,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="SOLIDStest" />
       <option name="MAIN_CLASS_NAME" value="SOLIDStest.AddPostfixToBookAuthorTest" />
-      <option name="METHOD_NAME" value="shouldReturnBookAuthorWithPostfix" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,12 +115,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SOLIDStest in SolidExplExrc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolidExplExrc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLIDStest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SOLIDStest" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in SolidExplExrc" />
+        <item itemvalue="JUnit.SOLIDStest in SolidExplExrc" />
+        <item itemvalue="JUnit.AddPostfixToBookAuthorTest" />
         <item itemvalue="Application.MainForTests" />
         <item itemvalue="JUnit.AddPrefixToBookAuthorTest" />
-        <item itemvalue="JUnit.AddPostfixToBookAuthorTest.shouldReturnBookAuthorWithPostfix" />
-        <item itemvalue="JUnit.All in SolidExplExrc" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661020941042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="O">
+      <created>1661022874473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661022874473</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="S" />
-    <option name="LAST_COMMIT_MESSAGE" value="S" />
+    <MESSAGE value="O" />
+    <option name="LAST_COMMIT_MESSAGE" value="O" />
   </component>
 </project>

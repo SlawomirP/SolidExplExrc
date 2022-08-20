@@ -12,9 +12,10 @@ class AddPostfixToBookAuthorTest {
         //given
         AddPostfixToBookAuthor addPostfixToBookAuthor = new AddPostfixToBookAuthor();
         //when
-        String effect = addPostfixToBookAuthor.addPostfixToBookAuthor("jr", "roberto");
+        String textWithPostfix = addPostfixToBookAuthor.addPostFixToBookAuthor("jr", "slawek");
         //then
-        Assertions.assertEquals("roberto jr", effect );
+        Assertions.assertEquals("slawek jr", textWithPostfix);
+
     }
 
 }
