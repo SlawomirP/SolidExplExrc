@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/AddPrefixToBookAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/MainForTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDStest/AddPrefixToBookAuthorTest.java" afterDir="false" />
+    <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="S">
+      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDS/AddPostfixToBookAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDStest/AddPostfixToBookAuthorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDS/AddPrefixToBookAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/AddPrefixToBookAuthor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDS/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDS/MainForTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDS/MainForTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +46,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SOLIDS" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="SOLIDStest" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SOLIDStest" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in SolidExplExrc">
+  <component name="RunManager" selected="Application.MainForTests">
     <configuration name="MainForTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SOLIDS.MainForTests" />
       <module name="SolidExplExrc" />
@@ -66,6 +69,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPostfixToBookAuthorTest.shouldReturnBookAuthorWithPostfix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolidExplExrc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLIDStest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SOLIDStest" />
+      <option name="MAIN_CLASS_NAME" value="SOLIDStest.AddPostfixToBookAuthorTest" />
+      <option name="METHOD_NAME" value="shouldReturnBookAuthorWithPostfix" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,9 +114,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in SolidExplExrc" />
         <item itemvalue="Application.MainForTests" />
         <item itemvalue="JUnit.AddPrefixToBookAuthorTest" />
+        <item itemvalue="JUnit.AddPostfixToBookAuthorTest.shouldReturnBookAuthorWithPostfix" />
+        <item itemvalue="JUnit.All in SolidExplExrc" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661016167316</updated>
     </task>
+    <task id="LOCAL-00001" summary="S">
+      <created>1661020941042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661020941042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="S" />
+    <option name="LAST_COMMIT_MESSAGE" value="S" />
   </component>
 </project>

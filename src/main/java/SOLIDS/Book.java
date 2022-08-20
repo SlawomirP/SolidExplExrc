@@ -1,10 +1,13 @@
 package SOLIDS;
 
 import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
 
+@ToString
 public class Book {
 
-    @Getter
+    @Getter @Setter
     private String name;
     @Getter
     private String author;
