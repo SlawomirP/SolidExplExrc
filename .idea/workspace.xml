@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="O">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/GaduGaduSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/Informable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDLtest/InformServiceTest.java" afterDir="false" />
+    <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="L">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDL/GaduGaduSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/GaduGaduSender.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,19 +60,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.InformServiceTest">
-    <configuration name="MainForTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SOLIDS.MainForTests" />
-      <module name="SolidExplExrc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SOLIDS.AddPrefixToBookAuthor" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AddPostfixToBookAuthorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SolidExplExrc" />
       <extension name="coverage">
@@ -113,6 +98,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SOLIDLtest in SolidExplExrc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolidExplExrc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLIDLtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SOLIDLtest" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SOLIDStest in SolidExplExrc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SolidExplExrc" />
       <extension name="coverage">
@@ -130,10 +129,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.InformServiceTest" />
+        <item itemvalue="JUnit.SOLIDLtest in SolidExplExrc" />
         <item itemvalue="JUnit.All in SolidExplExrc" />
         <item itemvalue="JUnit.SOLIDStest in SolidExplExrc" />
         <item itemvalue="JUnit.AddPostfixToBookAuthorTest" />
-        <item itemvalue="Application.MainForTests" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661026921531</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="L">
+      <created>1661028512903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661028512903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +190,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="S" />
     <MESSAGE value="O" />
-    <option name="LAST_COMMIT_MESSAGE" value="O" />
+    <MESSAGE value="L" />
+    <option name="LAST_COMMIT_MESSAGE" value="L" />
   </component>
 </project>
