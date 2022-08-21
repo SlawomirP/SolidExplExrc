@@ -6,5 +6,5 @@ public interface Informable {
 
     void sendMessages(List<String> messages);
 
-    int getSeenCount();
+
 }

@@ -8,8 +8,5 @@ public class GaduGaduSender implements Informable{
 
     }
 
-    @Override
-    public int getSeenCount() {
-        throw new IllegalStateException();
-    }
+
 }

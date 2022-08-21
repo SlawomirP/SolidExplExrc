@@ -3,6 +3,7 @@ package SOLIDLtest;
 import SOLIDL.EmailSender;
 import SOLIDL.GaduGaduSender;
 import SOLIDL.Informable;
+import SOLIDL.ViewCoint;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
@@ -12,6 +13,7 @@ class InformServiceTest {
     @Test
     public void testForMe(){
         Informable informable;
+        ViewCoint viewCoint;
         EmailSender emailSender = new EmailSender();
         GaduGaduSender gaduGaduSender = new GaduGaduSender();
 
@@ -20,11 +22,12 @@ class InformServiceTest {
 
         informable = emailSender;
         informable.sendMessages(Arrays.asList("przyklad"));
-        informable.getSeenCount();
 
         informable = gaduGaduSender;
         informable.sendMessages(Arrays.asList("przyklad"));
-        informable.getSeenCount();
+
+        viewCoint = emailSender;
+        viewCoint.getSeenCount();
 
     }
 

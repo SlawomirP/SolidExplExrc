@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="L">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/ViewCoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDL/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/EmailSender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDL/GaduGaduSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/GaduGaduSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDL/Informable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/Informable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SOLIDLtest/InformServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SOLIDLtest/InformServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
       <list>
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -33,16 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_directory_selection": "G:/Mój dysk/Java/SolidExplExrc/src/main/java/SOLIDS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;G:/Mój dysk/Java/SolidExplExrc/src/main/java/SOLIDS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SOLIDS" />
@@ -59,7 +64,7 @@
       <recent name="SOLIDStest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InformServiceTest">
+  <component name="RunManager" selected="JUnit.All in SolidExplExrc">
     <configuration name="AddPostfixToBookAuthorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SolidExplExrc" />
       <extension name="coverage">
@@ -128,9 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in SolidExplExrc" />
         <item itemvalue="JUnit.InformServiceTest" />
         <item itemvalue="JUnit.SOLIDLtest in SolidExplExrc" />
-        <item itemvalue="JUnit.All in SolidExplExrc" />
         <item itemvalue="JUnit.SOLIDStest in SolidExplExrc" />
         <item itemvalue="JUnit.AddPostfixToBookAuthorTest" />
       </list>
@@ -173,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661028512903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="L">
+      <created>1661028895668</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661028895668</updated>
+    </task>
+    <task id="LOCAL-00006" summary="L">
+      <created>1661028930654</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661028930654</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
