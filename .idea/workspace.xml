@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8fe60f5-1a64-49a5-a521-cd8656b07dd8" name="Changes" comment="L">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/ViewCoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDD/AsusMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDD/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDD/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDD/OldComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDD/WiredKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SOLIDDtest/OldComputerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDL/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/EmailSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDL/GaduGaduSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/GaduGaduSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDL/Informable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDL/Informable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SOLIDLtest/InformServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SOLIDLtest/InformServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +51,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="SOLIDD" />
       <recent name="SOLIDS" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="SOLIDDtest" />
       <recent name="SOLIDLtest" />
       <recent name="SOLIDStest" />
       <recent name="SOLIDS" />
@@ -192,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661028930654</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="L">
+      <created>1661077994991</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661077994991</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
